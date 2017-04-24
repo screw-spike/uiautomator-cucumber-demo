@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CucumberAndroidDemo</string>
+    <string name="edit_message">输入要启动的activity名称</string>
+    <string name="run_btn">运行</string>
+</resources>
